@@ -1,0 +1,7 @@
+DreemFortress™ Legal Signature
+------------------------------
+Unit Name: [UNIT_NAME]
+Timestamp: [TIMESTAMP]
+Verified By: DreemLogger™
+Hash: [UNIT_HASH]
+Signature: [DIGITAL_SIGNATURE]
