@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "platform": "Dreem Fortress™",
+  "units": [
+    {
+      "name": "DreemLogger",
+      "function": "تسجيل قانوني بزمن دقيق وتوقيع رقمي",
+      "status": "مفعل",
+      "signature": "sha256:abc123...",
+      "last_checked": "2025-08-11T21:00:00Z"
+    },
+    {
+      "name": "TelegramNotifier",
+      "function": "تنبيه ذكي عبر Telegram",
+      "status": "مفعل",
+      "signature": "sha256:def456...",
+      "last_checked": "2025-08-11T21:05:00Z"
+    },
+    {
+      "name": "AutoCommitSigner",
+      "function": "توقيع كل تعديل وأرشفة قانونية وتنبيه Telegram",
+      "status": "قيد التجهيز",
+      "signature": null,
+      "last_checked": null
+    }
+  ]
+}
