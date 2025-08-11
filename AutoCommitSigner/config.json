@@ -1,0 +1,19 @@
+{
+  "repo": {
+    "name": "dreemfortress-showcase"
+  },
+  "telegram": {
+    "token": "ضع هنا رمز البوت",
+    "chat_id": "ضع هنا معرف المحادثة"
+  }
+}
+
+{
+  "repo": {
+    "name": "dreemfortress-showcase"
+  },
+  "telegram": {
+    "token": "8268505716:AAGAuj3SJWf4hfPEmhMfIIazMhMh4mPBPks",
+    "chat_id": "1838691511"
+  }
+}
